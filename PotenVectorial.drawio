@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T02:51:39.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="mR6EiDoLIB95bllERfRC" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-06T02:58:17.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Ekx0chtm8CBYIoIblNvI" version="13.9.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,32 +30,6 @@
         </mxCell>
         <mxCell id="1ZM4-6F-wcKnOlTKeMzP-39" value="Loop" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YtZomZumcTx4ObFlIYrY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="YtZomZumcTx4ObFlIYrY-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="412" y="660" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YtZomZumcTx4ObFlIYrY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YtZomZumcTx4ObFlIYrY-4" target="YtZomZumcTx4ObFlIYrY-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YtZomZumcTx4ObFlIYrY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YtZomZumcTx4ObFlIYrY-4" target="YtZomZumcTx4ObFlIYrY-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YtZomZumcTx4ObFlIYrY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YtZomZumcTx4ObFlIYrY-4" target="YtZomZumcTx4ObFlIYrY-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YtZomZumcTx4ObFlIYrY-4" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="372" y="730" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YtZomZumcTx4ObFlIYrY-6" value="Aprobado nota &amp;gt;3: mensaje de aprobado" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="512" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YtZomZumcTx4ObFlIYrY-8" value="Reprobado nota &amp;lt;3 mensaje de reprobado" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="352" y="900" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YtZomZumcTx4ObFlIYrY-10" value="Mensaje con el valor calculado del promedio&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="192" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bK_J-pf7tGztya94RAqg-0" value="Asignación de Posiciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
